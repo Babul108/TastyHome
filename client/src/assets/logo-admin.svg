@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 45" fill="none">
+  <path d="M20 4L6 14V34H16V26H24V34H34V14L20 4Z" fill="#E23744"/>
+  <path d="M20 4L34 14V16L20 6L6 16V14L20 4Z" fill="#FF6B35"/>
+  <rect x="15" y="16" width="3" height="10" rx="1.5" fill="white"/>
+  <rect x="22" y="16" width="3" height="10" rx="1.5" fill="white"/>
+  <rect x="18.5" y="13" width="3" height="3.5" rx="1.5" fill="white"/>
+  <text x="44" y="26" font-family="Inter, sans-serif" font-size="16" font-weight="800" fill="#E23744">Tasty</text>
+  <text x="82" y="26" font-family="Inter, sans-serif" font-size="16" font-weight="800" fill="#2D3436">Home</text>
+  <!-- ADMIN badge -->
+  <rect x="44" y="31" width="42" height="12" rx="6" fill="#2D3436"/>
+  <text x="65" y="40" font-family="Inter, sans-serif" font-size="8" font-weight="700" fill="white" text-anchor="middle">ADMIN</text>
+</svg>
