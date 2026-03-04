@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 40 40" fill="none">
+  <style>
+    @keyframes pulse-logo {
+      0%, 100% { transform: scale(1); }
+      50% { transform: scale(1.08); }
+    }
+    .logo-house { animation: pulse-logo 2s ease-in-out infinite; transform-origin: 20px 20px; }
+  </style>
+  <g class="logo-house">
+    <path d="M20 4L6 14V34H16V26H24V34H34V14L20 4Z" fill="#E23744"/>
+    <path d="M20 4L34 14V16L20 6L6 16V14L20 4Z" fill="#FF6B35"/>
+    <rect x="15" y="16" width="3" height="10" rx="1.5" fill="white"/>
+    <rect x="22" y="16" width="3" height="10" rx="1.5" fill="white"/>
+    <rect x="18.5" y="13" width="3" height="3.5" rx="1.5" fill="white"/>
+  </g>
+</svg>
